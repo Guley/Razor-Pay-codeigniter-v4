@@ -30,5 +30,8 @@
     var SITE_URL = "<?php echo site_url(); ?>";
     var CURRENT_URL = "<?php echo current_url(); ?>";
     </script>
+    <?php if(isset($add_custom_js)){
+        echo '<script>'.$add_custom_js.'</script>';
+    } ?>
 </body>
 </html>
