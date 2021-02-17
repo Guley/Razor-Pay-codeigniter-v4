@@ -1,5 +1,5 @@
-# Rozay-Pay
-RozarPay integration in codeigniter v4
+# Razor-Pay
+RazorPay integration in codeigniter v4
 
 ## Config Folder 
 Make changes inside it `Constants.php`
