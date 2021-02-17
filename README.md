@@ -10,4 +10,7 @@ define('RAZOR_KEY', 'xxxxxxxxx');
 define('RAZOR_SECRET_KEY', 'xxxxxxxxx');
 
 ```
+# Libraries
+Extract `razorpay-php.zip` inside Libraries folder
+
 # Enjoy your code :)
