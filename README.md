@@ -1,2 +1,13 @@
 # Rozay-Pay
 RozarPay integration in codeigniter v4
+
+## Config Folder 
+Make changes inside it `Constants.php`
+
+# Constants.php
+``` 
+define('RAZOR_KEY', 'xxxxxxxxx');
+define('RAZOR_SECRET_KEY', 'xxxxxxxxx');
+
+```
+# Enjoy your code :)
