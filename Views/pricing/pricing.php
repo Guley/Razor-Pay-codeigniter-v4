@@ -15,7 +15,7 @@
             <ul class="list-unstyled mt-3 mb-4">
   <li>3 ads included</li>
 </ul>
-              <a href="<?= base_url('pricing/buynow/200') ?>" class="w-100 btn btn-lg btn-outline-primary">Buy Now</a>
+              <a href="<?= base_url('home/buynow/200') ?>" class="w-100 btn btn-lg btn-outline-primary">Buy Now</a>
           </div>
         </div>
     </div>
@@ -28,7 +28,7 @@
             <ul class="list-unstyled mt-3 mb-4">
   <li>5 ads included</li>
 </ul>
-              <a href="<?= base_url('pricing/buynow/400') ?>" class="w-100 btn btn-lg btn-outline-primary">Buy Now</a>
+              <a href="<?= base_url('home/buynow/400') ?>" class="w-100 btn btn-lg btn-outline-primary">Buy Now</a>
           </div>
         </div>
     </div>
@@ -41,7 +41,7 @@
             <ul class="list-unstyled mt-3 mb-4">
   <li>9 ads included</li>
 </ul>
-              <a href="<?= base_url('pricing/buynow/600') ?>" class="w-100 btn btn-lg btn-outline-primary">Buy Now</a>
+              <a href="<?= base_url('home/buynow/600') ?>" class="w-100 btn btn-lg btn-outline-primary">Buy Now</a>
           </div>
         </div>
     </div>
